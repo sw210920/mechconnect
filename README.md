@@ -43,7 +43,7 @@ This repository acts as a **central hub** for the complete MechConnect project, 
 ## 📂 Repositories
 
 - **Backend (Spring Boot)**  
-  👉 https://github.com/<your-username>/mechconnect-backend
+  👉 https://github.com/sw210920/mechconnect-backend.git
 
 - **Frontend (HTML, CSS, JavaScript)**  
   👉 https://github.com/<your-username>/mechconnect-frontend
