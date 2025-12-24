@@ -82,7 +82,7 @@ Java Full Stack Developer
 📍 Pune, Maharashtra  
 
 GitHub: https://github.com/sw210920/mechconnect.git  
-LinkedIn: linkedin.com/in/shubham-wani-91074a213
+LinkedIn: https://linkedin.com/in/shubham-wani-91074a213
 ---
 
 ## 📄 License
